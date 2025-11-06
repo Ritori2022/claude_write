@@ -1,0 +1,55 @@
+{
+  "project_id": "llm_epistemology_collapse_20251106",
+  "topic": "LLM的认识论崩塌：当语言模型重新定义真理",
+  "status": "phase2_running",
+  "start_time": "2025-11-06T00:00:00Z",
+  "phase1_completed": "2025-11-06T00:15:00Z",
+  "phase2_started": "2025-11-06T00:20:00Z",
+  "time_limit_minutes": 60,
+  "elapsed_minutes": 5,
+
+  "requirements": {
+    "research_mode": "dialectical_reconstruction",
+    "philosophical_approach": "multi_perspective_dialogue",
+    "case_types": ["knowledge_production", "prompt_alchemy", "truth_crisis"],
+    "historical_analogy": "alchemy_to_chemistry_full_chapter",
+    "target_audience": "crossover_readers",
+    "writing_style": "academically_grounded_public_writing",
+    "citation_format": "Chicago",
+    "target_length": "8000-12000 words",
+    "special_needs": "none"
+  },
+
+  "task_decomposition": {
+    "categories": [
+      {"id": 1, "name": "哲学基础与文献", "assigned_to": "Scout-1+Librarian", "status": "in_progress"},
+      {"id": 2, "name": "炼金术历史类比", "assigned_to": "Synthesizer+Scout-2", "status": "in_progress"},
+      {"id": 3, "name": "AI技术与案例收集", "assigned_to": "Scout-3", "status": "in_progress"},
+      {"id": 4, "name": "AI伦理与批判文献", "assigned_to": "Scout-4+Analyst", "status": "in_progress"},
+      {"id": 5, "name": "重构方案与未来导航", "assigned_to": "Synthesizer+Critic", "status": "pending"}
+    ]
+  },
+
+  "progress": {
+    "scout_1": "in_progress",
+    "scout_2": "in_progress",
+    "scout_3": "in_progress",
+    "scout_4": "in_progress",
+    "synthesizer": "in_progress",
+    "analyst": "pending",
+    "critic": "pending",
+    "librarian": "in_progress",
+    "scribe": "pending"
+  },
+
+  "statistics": {
+    "literature_found": 0,
+    "citations_formatted": 0,
+    "words_written": 0,
+    "git_commits": 0
+  },
+
+  "git_history": [],
+
+  "last_checkpoint": null
+}
